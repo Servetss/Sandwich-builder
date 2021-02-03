@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.parse.bolts:bolts-android:1.4.0" />
+        <androidPackage spec="com.facebook.android:facebook-core:5.2.0" />
+        <androidPackage spec="com.facebook.android:facebook-applinks:5.2.0" />
+        <androidPackage spec="com.facebook.android:facebook-login:5.2.0" />
+        <androidPackage spec="com.facebook.android:facebook-share:5.2.0" />
+        <androidPackage spec="com.android.support:appcompat-v7:28.0.0" />
+        <androidPackage spec="com.android.support:cardview-v7:28.0.0" />
+        <androidPackage spec="com.android.support:customtabs:28.0.0" />
+        <androidPackage spec="com.android.support:support-v4:28.0.0" />    </androidPackages>
+    <iosPods>
+        <iosPod name="FBSDKCoreKit" version="5.6" />
+        <iosPod name="FBSDKLoginKit" version="5.6" />
+        <iosPod name="FBSDKShareKit" version="5.6" />
+    </iosPods>
+</dependencies>

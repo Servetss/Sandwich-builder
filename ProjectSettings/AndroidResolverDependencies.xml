@@ -1,0 +1,34 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:appcompat-v7:28.0.0</package>
+    <package>com.android.support:cardview-v7:28.0.0</package>
+    <package>com.android.support:customtabs:28.0.0</package>
+    <package>com.android.support:support-v4:28.0.0</package>
+    <package>com.facebook.android:facebook-applinks:5.2.0</package>
+    <package>com.facebook.android:facebook-core:5.2.0</package>
+    <package>com.facebook.android:facebook-login:5.2.0</package>
+    <package>com.facebook.android:facebook-share:5.2.0</package>
+    <package>com.google.android.gms:play-services-ads-identifier:17.0.0</package>
+    <package>com.google.android.gms:play-services-basement:17.1.0</package>
+    <package>com.google.games:gpgs-plugin-support:0.10.09</package>
+    <package>com.parse.bolts:bolts-android:1.4.0</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/GooglePlayGames/Editor/m2repository/com/google/games/gpgs-plugin-support/0.10.09/gpgs-plugin-support-0.10.09.aar</file>
+    <file>Assets/GeneratedLocalRepo/GooglePlayGames/Editor/m2repository/com/google/games/gpgs-plugin-support/0.10.09/gpgs-plugin-support-0.10.09.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.ArtMindGames.SandwichBuilder" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>
